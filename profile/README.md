@@ -31,7 +31,7 @@
 | Pressure notes written in separate books | Simulation plot kept inside FluidSIM |
 | Circuits mixed on one unmarked bench | Hydraulic models kept apart inside FluidSIM |
 
-![FluidSIM](https://www.festo.com/media/cms/central/media/mam_upload/FluidSIM_web_-_Pneumatics_fix444x250.jpg)
+![FluidSIM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqCtFLWnyYI-F7VyIPiTzU3UdFofxrCLpegwMTl5K-RZUwF9cO2dzRMUg&s=10)
 
 ## First Questions
 
